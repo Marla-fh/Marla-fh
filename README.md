@@ -1,18 +1,23 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/c0f93c3e-215c-4e54-9f5c-e692c368a895"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/84f88ef6-4e5b-4322-8bee-27d7093dd251"/>
 <br>
 <br>
 
-<!--
-**Marla-fh/Marla-fh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3E0997&width=435&lines=Hello+There!;My+name+is+Marla)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marla-fh&theme=shadow-purple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+<br>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Marla-fh?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=purple&dark=true) 
+
+</div>
