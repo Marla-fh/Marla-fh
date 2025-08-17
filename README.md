@@ -18,6 +18,6 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://github.com/user-attachments/assets/b6308ca3-c972-4c15-a163-fbf8628766de) 
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/2ec8854d-8889-4dc5-9253-33e491bf1f22) 
 
 </div>
