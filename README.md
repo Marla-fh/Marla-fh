@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marla-fh&theme=shadow-purple&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marla-fh&theme=shadow-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -45,8 +45,31 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/c2af2f26-45ea-491e-8e39-e99e963ea277">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/2afb98d3-b259-48c2-aaae-d98e1dc38d0d">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/2afad9bc-f491-4743-a6e1-bec06f0ea60e">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f5f141de-1be8-4fdd-bae6-359253feaeea">
 
 
 </div>
+
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarla-fh&s=40&c=440088&bg=00000000&no=2&ff=digi&tb=Visits%3A++&ta=" alt="visits">
+</p> 
+
+<br>
+
+</div>
+
 
