@@ -18,6 +18,6 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Marla-fh?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=purple&dark=true) 
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/b6308ca3-c972-4c15-a163-fbf8628766de) 
 
 </div>
