@@ -21,3 +21,32 @@
 ![Ashutosh's github activity graph](https://github.com/user-attachments/assets/2ec8854d-8889-4dc5-9253-33e491bf1f22) 
 
 </div>
+
+</div>
+
+
+<!-- ### Main skills:
+<div align="left"> 
+<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+
+
+</div> -->
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+
+<h2 align="left"> Studying in this moment: </h2>
+
+
+<div align="left"> 
+
+<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
+
+
+</div>
+
